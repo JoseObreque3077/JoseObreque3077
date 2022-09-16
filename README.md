@@ -6,7 +6,7 @@ Soy Ingeniero Civil Electricista de profesión, con estudios en la Universidad d
 
 En Julio de 2022 egresé de un [Bootcamp de Programación Fullstack Java](https://www.credly.com/badges/7b99ddc1-3117-48c0-a14d-927a1ce05e78/public_url), organizado por la fundación Talento Digital para Chile en conjunto con SENCE, en donde aprendí conceptos fundamentales de HTML, CSS, bases de datos relacionales, lenguaje Java y Spring Framework.
 
-En la actualidad, sigo en un proceso de aprendisaje constante, en forma autodidacta, mientras sigo en la etapa de búsqueda de mi primera experiencia laboral en el rubro de IT.
+En la actualidad, sigo en un proceso de aprendizaje constante, en forma autodidacta, mientras sigo en la búsqueda de mi primera experiencia laboral en el rubro de IT.
 
 ## Tecnologías
 
